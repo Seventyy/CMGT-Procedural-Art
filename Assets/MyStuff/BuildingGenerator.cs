@@ -17,6 +17,7 @@ public class BuildingGenerator : Shape
     [SerializeField] private GameObject[] wallSegments;
     [SerializeField] private GameObject[] wallSeparators;
     [SerializeField] private GameObject[] verandaSegments;
+    [SerializeField] private GameObject[] floorSeparators;
     [SerializeField] private GameObject[] hipSegments;
     [SerializeField] private GameObject[] HipCornerOuters;
     [SerializeField] private GameObject[] HipCornerInners;
